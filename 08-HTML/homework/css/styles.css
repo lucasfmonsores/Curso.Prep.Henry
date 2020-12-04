@@ -12,8 +12,11 @@ img {
      height: 500px;
      width: 600px;
      background-color: rgb(197, 165, 97);
-     padding: 50px;
-     border: 10px solid blue;
+     /* padding: 50px; */
+     /* border: 10px solid rgb(0, 0, 0); */
+     margin: 50px;
+     margin: 0 auto;
+     
 
  }
 
@@ -21,9 +24,12 @@ img {
      font-size: 18px ;
      margin: 50px;
  }
-div {
+/* div {
   
     margin: 0 auto;
     width: 50%;
     
+} */
+.divclass {
+    background: gray;
 }
